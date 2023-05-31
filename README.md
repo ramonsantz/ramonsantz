@@ -1,12 +1,12 @@
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=074269&height=120&section=header"/>
    <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+    Oi Tudo bem? Sou o 
     <a href="https://www.linkedin.com/in/ramondev18/">Ramon Santos 👨🏻‍💻</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor BackEnd e gosto muito de compartilhar meu conhecimento 
+    Sou Desenvolvedor BackEnd e gosto de compartilhar meu conhecimento 
   </p> 
 </div>
 
