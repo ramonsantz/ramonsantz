@@ -1,7 +1,7 @@
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=074269&height=120&section=header"/>
    <h1 align="center">
-    Oi Tudo bem? Sou o 
+    Sou o 
     <a href="https://www.linkedin.com/in/ramondev18/">Ramon Santos 👨🏻‍💻</a>
   </h1>
   
