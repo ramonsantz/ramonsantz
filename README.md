@@ -19,7 +19,6 @@
 
 <div align="center" valign="top"><br>
   <img align="center" alt="linux" height="30" width="30" src="https://camo.githubusercontent.com/7b17b555fdef53e6e210f1aff5cbec72dcd81522ecd1d4a542bf946f206b7607/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f31383270782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/duribeiro/duribeiro/main/assets/GitHub.png">
