@@ -18,6 +18,7 @@
 </div>
 
 <div align="center" valign="top"><br>
+   <img align="center" alt="PowerBI" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fcf%2FNew_Power_BI_Logo.svg&tbnid=s91CdthuCrUicM&vet=12ahUKEwiu0JenstiEAxUoF7kGHVMzB0oQMygAegQIARBI..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&docid=fElY9UANHz96jM&w=630&h=630&q=powerbi%20icon%20svg&ved=2ahUKEwiu0JenstiEAxUoF7kGHVMzB0oQMygAegQIARBI)">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/duribeiro/duribeiro/main/assets/GitHub.png">
