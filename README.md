@@ -1,7 +1,7 @@
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=074269&height=120&section=header"/>
    <h1 align="center">
-    <a href="https://www.linkedin.com/in/ramondev18/">Ramon Santos 👨🏻‍💻</a>
+    <a href="https://www.linkedin.com/in/ramondev18/"><font face="Arial, sans-serif">Ramon Santos 👨🏻‍💻/font></a>
   </h1>
   
   <p align="center">
