@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    Desenvolvedor BackEnd e compartilho meu aprendizado e conhecimento na área
+    <strong>Desenvolvedor BackEnd e compartilho meu aprendizado e conhecimento na área</strong>
   </p> 
 </div>
 
