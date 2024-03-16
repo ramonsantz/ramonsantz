@@ -17,7 +17,7 @@
 </div>
 
 <div align="center" valign="top"><br>
-   <img align="center" alt="Java" height="40" width="40" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgbin.com%2Ffree-png%2Fjava-icon&psig=AOvVaw1LX_aqKNdInO9BWZ0YkYcP&ust=1710679860093000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMC5jZzp-IQDFQAAAAAdAAAAABAE](https://thumbnail.imgbin.com/23/4/10/code-icon-development-icon-java-icon-MvsCA4Tc_t.jpg)"> 
+   <img align="center" alt="Java" height="40" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgbin.com%2Ffree-png%2Fjava-icon&psig=AOvVaw1LX_aqKNdInO9BWZ0YkYcP&ust=1710679860093000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMC5jZzp-IQDFQAAAAAdAAAAABAE"> 
    <img align="center" alt="Python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
    <img align="center" alt="PowerBI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
