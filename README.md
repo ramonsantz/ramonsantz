@@ -12,8 +12,7 @@
 
 <div align="center">
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ramon%20Santos&theme=dark&locale=pt_BR&background=45%2C032E64%2C08213369&ring=03EBDA&currStreakLabel=EBEBEB&fire=61EBE5)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RamonSantosDev&theme=dark&locale=pt_BR&background=45%2C032E64%2C08213369&ring=03EBDA&currStreakLabel=EBEBEB&fire=61EBE5)](https://git.io/streak-stats)</div>
 
 <div align="center" valign="top"><br>
    <img align="center" alt="Java" height="40" width="30" src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png"> 
