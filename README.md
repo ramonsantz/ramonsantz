@@ -1,7 +1,7 @@
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=074269&height=120&section=header"/>
    <h1 align="center">
-    <a href="https://www.linkedin.com/in/ramondev18/"><font face="monospace">RAMON SANTOS 👨🏻‍💻</font></a>
+    <a href="https://www.linkedin.com/in/ramonsantoss/"><font face="monospace">RAMON SANTOS</font></a>
   </h1>
   
   <p align="center">
@@ -26,7 +26,7 @@
 </div><br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ramondev18/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ramonsantoss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center">
