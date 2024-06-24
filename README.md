@@ -1,8 +1,7 @@
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=074269&height=120&section=header"/>
-   <h1 align="center">
-    <a href="https://www.linkedin.com/in/ramonsantoss/"><font face="monospace">RAMON SANTOS</font></a>
-  </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hey%2C+I'm+Ramon+Santos;I'm+19+Years+old;I'm+studying+Systems+Analysis+and+Development)](https://git.io/typing-svg)
   
   <p align="center">
     <strong>Analista de Dados e BackEnd e compartilho meu aprendizado e conhecimento na área.</strong>
