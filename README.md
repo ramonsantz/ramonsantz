@@ -6,7 +6,7 @@
 </div>
   
   <p align="center">
-    <strong>Analista de Dados e compartilho meu aprendizado e conhecimento na área.</strong>
+    <strong>Engenheiro de Dados e compartilho meu aprendizado e conhecimento na área.</strong>
   </p> 
 </div>
 
