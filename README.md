@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💻 Transição para Engenheiro de Dados:<br>Após 3 anos de experiência na área de Logística/Administração, estou em transição de carreira para Engenheiro de Dados, unindo minha prática de análises e projetos para que os dados sejam acionáveis para tomar uma decisão<br><br>✍🏻 Formação em andamento:<br>• Análise e Desenvolvimento de Sistemas <br>• Formação PowerBI <br>• Formação Python <br>• Formação SQL <br><br>🚀 Principais tecnologias:<br><br><strong>Python | SAP | Excel | SQL | GCP | Salesforce | HTML | CSS3 | JavaScript | Java | MySQL  </strong><br><BR>👨🏻‍💻 Comprometido em explorar dados para obter insights que guiem decisões mais informadas.</p>
+<p align="left">💻 Transição para ser Engenheiro de Dados:<br>Após 3 anos de experiência na área de Logística/Administração, estou em transição de carreira para Engenheiro de Dados, unindo minha prática de análises e projetos para que os dados sejam acionáveis para tomar uma decisão<br><br>✍🏻 Formação em andamento:<br>• Análise e Desenvolvimento de Sistemas <br>• Formação PowerBI <br>• Formação Python <br>• Formação SQL <br><br>🚀 Principais tecnologias:<br><br><strong>Python | SAP | Excel | SQL | GCP | Salesforce | HTML | CSS3 | JavaScript | Java | MySQL  </strong><br><BR>👨🏻‍💻 Comprometido em explorar dados para obter insights que guiem decisões mais informadas.</p>
 
 ###
 
@@ -49,13 +49,6 @@
   <a href="https://www.linkedin.com/in/ramonsantoss/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" target="_blank">
   </a> 
-</div>
-
-
-<div align="center">
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramonsantz&theme=dark&locale=pt_BR&background=45%2C032E64%2C08213369&ring=03EBDA&currStreakLabel=EBEBEB&fire=61EBE5)](https://git.io/streak-stats)
-
 </div>
 
 <div align="center">
