@@ -1,6 +1,6 @@
 <div style="position: relative;">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=074269&height=120&section=header"/>
-<div align="center" style="position: absolute; top: 60px; width: 100%;">  
+<img style="margin-top: -600px;" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=074269&height=120&section=header"/>
+<div align="center" style="top: 10px; width: 100%;">  
 
     
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hey%2C+I'm+Ramon+Santos;I'm+20+Years+old;Studying+Systems+Analysis+and+Dev)](https://git.io/typing-svg)
