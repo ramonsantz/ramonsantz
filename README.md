@@ -25,12 +25,19 @@
 
 <div align="left" valign="top"><br>
     <img align="center" alt="SQL" height="40" width="40"src="https://github.com/user-attachments/assets/5c685fbb-c6d1-4148-a95d-ed9941af3361"> 
+    <img width="5" />
     <img align="center" alt="Python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
+    <img width="5" />
     <img align="center" alt="Pandas" height="40" width="25"src="https://github.com/user-attachments/assets/7fb50777-9065-4f5a-93b0-f440755c11fc">
+    <img width="5" />
     <img align="center" alt="Numpy" height="40" width="40"src="https://github.com/user-attachments/assets/dd323ef7-1ae5-4237-b33e-e72ca774c6eb">
+    <img width="5" />
     <img align="center" alt="GCP" height="30" width="38"src="https://github.com/user-attachments/assets/8d12816d-80a1-47c7-addf-5594c01e3a46">
+    <img width="5" />
     <img align="center" alt="PowerBI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532">
+    <img width="5" />
     <img align="center" alt="MySQL" height="40" width="40"src="https://github.com/RamonSantosDev/RamonSantosDev/assets/117384857/99915f46-6951-4248-9feb-0f0dd2d33dd3"> 
+    <img width="5" />
     <img align="center" alt="sap" height="40" width="40"src="https://github.com/user-attachments/assets/1fe3189c-0ae7-46c1-a05f-35daa66e19ca">
     
 </div><br>
