@@ -50,10 +50,11 @@
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" target="_blank">
   </a> 
 </div>
-
+<br>
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  <img height="225px" src='https://github-readme-stats.vercel.app/api?username=ramonsantz&theme=react&show_icons=true&hide_border=true&count_private=true'/>
+  <img height="225px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsantz&theme=react&show_icons=true&hide_border=true&layout=compact' />
   
 </div>
 
