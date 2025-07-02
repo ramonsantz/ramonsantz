@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💻 Transição para ser Engenheiro de Dados:<br>Após 3 anos de experiência na área de Logística/Administração, estou em transição de carreira para Engenheiro de Dados, unindo minha prática de análises e projetos para que os dados sejam acionáveis para tomar uma decisão<br><br>✍🏻 Formações:<br>• Análise e Desenvolvimento de Sistemas <br>• Formação PowerBI <br>• Formação Python <br>• Formação SQL <br><br>🚀 Principais tecnologias:<br><br><strong>Python | SAP | Excel | SQL | GCP | Salesforce | HTML | CSS3 | JavaScript | Java | MySQL  </strong><br><BR>👨🏻‍💻 Comprometido em explorar dados para obter insights que guiem decisões mais informadas.</p>
+<p align="left">💻 Transição para ser Engenheiro de Dados:<br>Após 3 anos de experiência na área de Logística/Administração, estou em transição de carreira para Engenharia de Dados, unindo minha prática de análises e projetos para que os dados sejam acionáveis para tomar uma decisão<br><br>✍🏻 Formações:<br>• Análise e Desenvolvimento de Sistemas <br>• Formação PowerBI <br>• Formação Python <br>• Formação SQL <br><br>🚀 Principais tecnologias:<br><br><strong>Python | SAP | Excel | SQL | GCP | Salesforce | HTML | CSS3 | JavaScript | Java | MySQL  </strong><br><BR>👨🏻‍💻 Comprometido em explorar dados para obter insights que guiem decisões mais informadas.</p>
 
 ###
 
