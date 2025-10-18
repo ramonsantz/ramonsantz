@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💻 Transição para ser Engenheiro de Dados:<br>Após 3 anos de experiência na área de Logística/Administração, estou em transição de carreira para Engenharia de Dados, unindo minha prática de análises e projetos para que os dados sejam acionáveis para tomar uma decisão<br><br>✍🏻 Formações:<br>• Análise e Desenvolvimento de Sistemas <br>• Formação PowerBI <br>• Formação Python <br>• Formação SQL <br><br>🚀 Principais tecnologias:<br><br><strong>Python | SAP | Excel | SQL | GCP | Salesforce | HTML | CSS3 | JavaScript | Java | MySQL  </strong><br><BR>👨🏻‍💻 Comprometido em explorar dados para obter insights que guiem decisões mais informadas.</p>
+<p align="left">💻 Transição para ser Engenheiro de Dados:<br>Após 3 anos de experiência na área de Logística/Administração, estou em transição de carreira para Engenharia de Dados, unindo minha prática de análises e projetos para que os dados sejam acionáveis para tomar uma decisão<br><br>✍🏻 Formações:<br>• Análise e Desenvolvimento de Sistemas <br>• Formação PowerBI <br>• Formação Python para Data Science <br>• Formação SQL <br><br>🚀 Principais tecnologias:<br><br><strong>Python-Spark | SQL | Excel | SAP | GCP | Azure </strong><br><BR>👨🏻‍💻 Comprometido em explorar dados para obter insights que guiem decisões mais informadas.</p>
 
 ###
 
@@ -40,7 +40,6 @@
     <img width="5" />
     <img align="center" alt="sap" height="70" width="70"src="https://github.com/user-attachments/assets/1fe3189c-0ae7-46c1-a05f-35daa66e19ca">
     <img witdh="5"/>
-    <img align="center" alt="salesforce" height="40" width="50"src="https://github.com/user-attachments/assets/12465da9-480a-4dd6-b581-983c7670fbbd">
     
 </div><br>
 
