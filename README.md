@@ -8,13 +8,13 @@
 
 ---
 
-<p align="center"> <strong>Busco ser Engenheiro de Dados e compartilho meu aprendizado e conhecimento na área.</strong> </p> 
+<p align="center"> <strong>Engenheiro de Dados e compartilho meu aprendizado e conhecimento na área.</strong> </p> 
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">💻 Transição para ser Engenheiro de Dados:<br>Após 3 anos de experiência na área de Logística/Administração, estou em transição para Engenharia de Dados, unindo minha prática de análises e projetos voltado à arquitetura para que os dados sejam acionáveis para tomar uma decisão<br><br>✍🏻 Formações:<br>• Análise e Desenvolvimento de Sistemas <br>• Formação PowerBI <br>• Formação Python para Data Science <br>• Formação SQL <br><br>🚀 Principais tecnologias:<br><br><strong> Python-Spark | SQL | Databricks | Excel | SAP | GCP | Azure </strong><br><BR>👨🏻‍💻 Comprometido em explorar dados para obter insights que guiem decisões mais informadas.</p>
+<p align="left">💻 Data Engineer:<br>Após 3 anos de experiência na área de Logística/Administração, estou na Engenharia de Dados, unindo minha prática de análises e projetos voltado à arquitetura para que os dados sejam acionáveis para tomada de decisão<br><br>✍🏻 Formações:<br>• Análise e Desenvolvimento de Sistemas <br>• Formação FinOps <br>• Formação Python para Data Science <br>• Formação SQL <br><br>🚀 Principais tecnologias:<br><br><strong> PySpark | SQL | Databricks | Azure </strong><br><BR>👨🏻‍💻 Comprometido em explorar dados para obter insights que guiem decisões mais informadas.</p>
 
 ###
 
@@ -24,13 +24,13 @@
 <p align="left">Linguagens & Frameworks</p>
 
 <div align="left" valign="top"><br>
+     <img align="center" alt="ApacheSpark" height="80" width="140" src="https://github.com/user-attachments/assets/21ab3357-af21-4fe6-afb1-21d529030c0a" />
+    <img width="5" />
+    <img align="center" alt="Databricks" height="80" width="80" src="https://github.com/user-attachments/assets/85d7aac5-d138-42f8-a59c-68cbebaa82a1" />
+    <img width="5" />
     <img align="center" alt="SQL" height="80" width="80" src="https://github.com/user-attachments/assets/04d4d64f-ebdb-4119-b612-6e1da52fbd22" />
     <img width="5" />
     <img align="center" alt="Python" height="80" width="80" src="https://github.com/user-attachments/assets/299a1331-14ff-4960-9c58-3bf57bcd32fc">
-    <img width="5" />
-    <img align="center" alt="ApacheSpark" height="80" width="80" src="https://github.com/user-attachments/assets/21ab3357-af21-4fe6-afb1-21d529030c0a" />
-    <img width="5" />
-    <img align="center" alt="Databricks" height="80" width="80" src="https://github.com/user-attachments/assets/85d7aac5-d138-42f8-a59c-68cbebaa82a1" />
     <img width="5" />
     <img align="center" alt="Pandas" height="80" width="50" src="https://github.com/user-attachments/assets/7fb50777-9065-4f5a-93b0-f440755c11fc">
     <img width="5" />
@@ -38,9 +38,7 @@
     <img width="5" />
     <img align="center" alt="Azure"  height="80" width="80" src="https://github.com/user-attachments/assets/c4424d87-7a2b-4883-9806-8d9ee464b093" />
     <img width="5" />
-    <img align="center" alt="GCP"  height="80" width="80" src="https://github.com/user-attachments/assets/8d12816d-80a1-47c7-addf-5594c01e3a46">
-    <img width="5" />
-    <img align="center" alt="PowerBI"  height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532">
+    <img align="center" alt="GCP"  height="80" width="90" src="https://github.com/user-attachments/assets/8d12816d-80a1-47c7-addf-5594c01e3a46">
     <img width="5" />
     <img align="center" alt="sap"  height="80" width="80" src="https://github.com/user-attachments/assets/1fe3189c-0ae7-46c1-a05f-35daa66e19ca">
     <img witdh="5"/>
@@ -54,10 +52,4 @@
   </a> 
 </div>
 <br>
-<div align="center">
-
-  <img height="185px" src='https://github-readme-stats.vercel.app/api?username=ramonsantz&theme=react&show_icons=true&hide_border=true&count_private=true'/>
-  <img height="185px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsantz&theme=react&show_icons=true&hide_border=true&layout=compact' />
-  
-</div>
 
