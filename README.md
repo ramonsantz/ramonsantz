@@ -1,8 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0089D6&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0089D6&height=80&section=header"/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=0089D6&center=true&vCenter=true&width=435&lines=Data+Engineer;Azure+Data+Factory;PySpark+Developer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0089D6&center=true&vCenter=true&width=500&lines=Data+Engineer;Azure+Data+Factory;PySpark+Developer" alt="Typing Animation">
 </div>
-<br>
 <h2>Sobre Mim</h2>
 <p align="justify">
   Sou Ramon Santos, atuo como Engenheiro de Dados em São Paulo, Brasil. Minha trajetória profissional tem foco na construção, manutenção, monitoramento e melhoria contínua de pipelines e processos de dados em nuvem. 
