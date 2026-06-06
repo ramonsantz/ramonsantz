@@ -1,8 +1,3 @@
-<div align="right">
-  <a href="README.md"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="20" alt="PT-BR"/> PT-BR</a> |
-  <a href="README-en.md"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" width="20" alt="EN"/> EN</a> |
-  <a href="README-es.md"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" width="20" alt="ES"/> ES</a>
-</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0089D6&height=120&section=header"/>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=0089D6&center=true&vCenter=true&width=435&lines=Data+Engineer;Azure+Data+Factory;PySpark+Developer" alt="Typing Animation">
