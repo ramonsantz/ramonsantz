@@ -123,5 +123,4 @@
 <h2>Contato</h2>
 <p>
   <a href="https://www.linkedin.com/in/ramonsantoss/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height=30> </a>
-  <a href="LINK_DO_SEU_CV_EM_PDF" target="_blank"><img src="https://img.shields.io/badge/Baixar_Meu_CV-0FAAFF?style=for-the-badge&logo=reverbnation&logoColor=white" target="_blank" height=30></a> 
 </p>
